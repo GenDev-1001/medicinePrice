@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medicinePrice/static/css/main.fd2aaf75.css",
+    "main.js": "/medicinePrice/static/js/main.6aa13f86.js",
+    "static/media/logoNew.png": "/medicinePrice/static/media/logoNew.ca86a066679452145123.png",
+    "static/media/back.jpg": "/medicinePrice/static/media/back.dbd3c9df2473fff23a5a.jpg",
+    "index.html": "/medicinePrice/index.html",
+    "main.fd2aaf75.css.map": "/medicinePrice/static/css/main.fd2aaf75.css.map",
+    "main.6aa13f86.js.map": "/medicinePrice/static/js/main.6aa13f86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd2aaf75.css",
+    "static/js/main.6aa13f86.js"
+  ]
+}
