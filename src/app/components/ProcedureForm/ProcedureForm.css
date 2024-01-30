@@ -1,0 +1,16 @@
+.addBtn {
+	background-color: transparent;
+	transition: background-color 350ms ease-out;
+	color: #cc0605 !important;
+	border: 1px solid #cc0605;
+}
+
+.addBtn:hover {
+	background-color: #cc0605 !important;
+	color: white !important;
+}
+
+.noBtn:hover {
+	color: #cc0605 !important;
+	border: 1px solid #cc0605 !important;
+}
